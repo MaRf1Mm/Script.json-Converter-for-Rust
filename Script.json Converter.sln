@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Script.json Converter", "Script.json Converter\Script.json Converter.csproj", "{17228940-A934-416E-8EE2-CC96037422AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17228940-A934-416E-8EE2-CC96037422AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17228940-A934-416E-8EE2-CC96037422AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17228940-A934-416E-8EE2-CC96037422AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17228940-A934-416E-8EE2-CC96037422AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA5B0DC2-5B4F-4DB4-8CA6-68EE606A6B7F}
+	EndGlobalSection
+EndGlobal

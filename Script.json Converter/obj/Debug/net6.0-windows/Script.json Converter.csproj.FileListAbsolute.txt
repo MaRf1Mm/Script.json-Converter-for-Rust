@@ -1,0 +1,17 @@
+D:\Desktop\Plyshki\DMA\Rust\Script.json Converter\Script.json Converter\bin\Debug\net6.0-windows\Script.json Converter.exe
+D:\Desktop\Plyshki\DMA\Rust\Script.json Converter\Script.json Converter\bin\Debug\net6.0-windows\Script.json Converter.deps.json
+D:\Desktop\Plyshki\DMA\Rust\Script.json Converter\Script.json Converter\bin\Debug\net6.0-windows\Script.json Converter.runtimeconfig.json
+D:\Desktop\Plyshki\DMA\Rust\Script.json Converter\Script.json Converter\bin\Debug\net6.0-windows\Script.json Converter.dll
+D:\Desktop\Plyshki\DMA\Rust\Script.json Converter\Script.json Converter\bin\Debug\net6.0-windows\Script.json Converter.pdb
+D:\Desktop\Plyshki\DMA\Rust\Script.json Converter\Script.json Converter\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Desktop\Plyshki\DMA\Rust\Script.json Converter\Script.json Converter\obj\Debug\net6.0-windows\Script.json Converter.csproj.AssemblyReference.cache
+D:\Desktop\Plyshki\DMA\Rust\Script.json Converter\Script.json Converter\obj\Debug\net6.0-windows\Script.json Converter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Plyshki\DMA\Rust\Script.json Converter\Script.json Converter\obj\Debug\net6.0-windows\Script.json Converter.AssemblyInfoInputs.cache
+D:\Desktop\Plyshki\DMA\Rust\Script.json Converter\Script.json Converter\obj\Debug\net6.0-windows\Script.json Converter.AssemblyInfo.cs
+D:\Desktop\Plyshki\DMA\Rust\Script.json Converter\Script.json Converter\obj\Debug\net6.0-windows\Script.json Converter.csproj.CoreCompileInputs.cache
+D:\Desktop\Plyshki\DMA\Rust\Script.json Converter\Script.json Converter\obj\Debug\net6.0-windows\Script.json Converter.csproj.CopyComplete
+D:\Desktop\Plyshki\DMA\Rust\Script.json Converter\Script.json Converter\obj\Debug\net6.0-windows\Script.json Converter.dll
+D:\Desktop\Plyshki\DMA\Rust\Script.json Converter\Script.json Converter\obj\Debug\net6.0-windows\refint\Script.json Converter.dll
+D:\Desktop\Plyshki\DMA\Rust\Script.json Converter\Script.json Converter\obj\Debug\net6.0-windows\Script.json Converter.pdb
+D:\Desktop\Plyshki\DMA\Rust\Script.json Converter\Script.json Converter\obj\Debug\net6.0-windows\Script.json Converter.genruntimeconfig.cache
+D:\Desktop\Plyshki\DMA\Rust\Script.json Converter\Script.json Converter\obj\Debug\net6.0-windows\ref\Script.json Converter.dll

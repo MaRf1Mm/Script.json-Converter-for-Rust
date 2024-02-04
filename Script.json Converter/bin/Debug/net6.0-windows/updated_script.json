@@ -1,0 +1,17 @@
+[
+  {
+    "Address": "33F4FC0",
+    "Name": "TOD_Sky_TypeInfo",
+    "Signature": "TOD_Sky_c*"
+  },
+  {
+    "Address": "34314B8",
+    "Name": "MainCamera_TypeInfo",
+    "Signature": "MainCamera_c*"
+  },
+  {
+    "Address": "3445CA0",
+    "Name": "OcclusionCulling_TypeInfo",
+    "Signature": "OcclusionCulling_c*"
+  }
+]

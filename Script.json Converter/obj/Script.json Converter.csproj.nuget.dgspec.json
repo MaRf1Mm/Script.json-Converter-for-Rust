@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Desktop\\Plyshki\\DMA\\Rust\\Script.json Converter\\Script.json Converter\\Script.json Converter.csproj": {}
+  },
+  "projects": {
+    "D:\\Desktop\\Plyshki\\DMA\\Rust\\Script.json Converter\\Script.json Converter\\Script.json Converter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Desktop\\Plyshki\\DMA\\Rust\\Script.json Converter\\Script.json Converter\\Script.json Converter.csproj",
+        "projectName": "Script.json Converter",
+        "projectPath": "D:\\Desktop\\Plyshki\\DMA\\Rust\\Script.json Converter\\Script.json Converter\\Script.json Converter.csproj",
+        "packagesPath": "C:\\Users\\burav\\.nuget\\packages\\",
+        "outputPath": "D:\\Desktop\\Plyshki\\DMA\\Rust\\Script.json Converter\\Script.json Converter\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\burav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.418\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

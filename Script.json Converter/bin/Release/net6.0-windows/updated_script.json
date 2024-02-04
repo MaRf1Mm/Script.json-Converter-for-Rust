@@ -1,0 +1,42 @@
+[
+  {
+    "Address": "33B94A8",
+    "Name": "ConVar.Admin_TypeInfo",
+    "Signature": "ConVar_Admin_c*"
+  },
+  {
+    "Address": "33F4FC0",
+    "Name": "TOD_Sky_TypeInfo",
+    "Signature": "TOD_Sky_c*"
+  },
+  {
+    "Address": "3401098",
+    "Name": "ConVar.Graphics_TypeInfo",
+    "Signature": "ConVar_Graphics_c*"
+  },
+  {
+    "Address": "3401BA8",
+    "Name": "System.Collections.Generic.List<BaseGameMode>_TypeInfo",
+    "Signature": "System_Collections_Generic_List_BaseGameMode__c*"
+  },
+  {
+    "Address": "342E688",
+    "Name": "LocalPlayer_TypeInfo",
+    "Signature": "LocalPlayer_c*"
+  },
+  {
+    "Address": "3430778",
+    "Name": "ConsoleSystem.Index_TypeInfo",
+    "Signature": "ConsoleSystem_Index_c*"
+  },
+  {
+    "Address": "34314B8",
+    "Name": "MainCamera_TypeInfo",
+    "Signature": "MainCamera_c*"
+  },
+  {
+    "Address": "3445CA0",
+    "Name": "OcclusionCulling_TypeInfo",
+    "Signature": "OcclusionCulling_c*"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ozwPITT83HHtGTGAWYKLmg4HjWt9b2xgKSAMtDNBtd1ya5It97mslm1YNZPSRvnvxKA2yazp4fOVvtevktfUGQ==",
+  "success": true,
+  "projectFilePath": "D:\\Desktop\\Plyshki\\DMA\\Rust\\Script.json Converter\\Script.json Converter\\Script.json Converter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\burav\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

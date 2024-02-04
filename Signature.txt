@@ -1,0 +1,9 @@
+"Signature": "TOD_Sky_c*",
+"Signature": "OcclusionCulling_c*",
+"Signature": "MainCamera_c*",
+"Signature": "LocalPlayer_c*",
+"Signature": "ConVar_Graphics_c*",
+"Signature": "ConVar_Admin_c*",
+"Signature": "ConsoleSystem_Index_c*",
+"Signature": "System_Collections_Generic_List_BaseGameMode__c*",
+
